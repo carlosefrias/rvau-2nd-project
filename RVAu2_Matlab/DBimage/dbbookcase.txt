@@ -1,0 +1,6 @@
+Estante 1;DBimage/estante01.jpg;60.4;41.1;0.18
+Estante 2;DBimage/estante02.jpg;60.4;41.1;0.22
+Estante 3;DBimage/estante03.jpg;60.4;41.1;0.16
+Estante 4;DBimage/estante04.jpg;60.4;41.1;0.22
+Estante 5;DBimage/estante05.jpg;60.4;41.1;0.27
+Estante 6;DBimage/estante06.jpg;60.4;41.1;0.22

@@ -1,0 +1,16 @@
+Físca 12º ano;DBimage/livro01.jpg;1.4
+Método de Monge;DBimage/livro02.jpg;2.1
+Matemática 10º ano;DBimage/livro03.jpg;1.7
+Enciclopédia de Medicina;DBimage/livro04.jpg;4
+Psicologia e Relações Humanas;DBimage/livro05.jpg;2.5
+Dicionário pt-en e en-pt;DBimage/livro06.jpg;7.5
+The general basic English dictionary;DBimage/livro07.jpg;2.5
+As receitas do sítio do costume;DBimage/livro08.jpg;1.4
+Sinclair 7X Spectrum;DBimage/livro09.jpg;1.7
+A saúde pela natureza;DBimage/livro10.jpg;3.7
+Comer melhor para viver melhor;DBimage/livro11.jpg;3.8
+Moedas de todo o mundo;DBimage/livro12.jpg;7
+Enciclopédia Geográfica;DBimage/livro13.jpg;4.8
+O Petísco em Portugal;DBimage/livro14.jpg;1.7
+Livro Perto;DBimage/livro15.jpg;5.3
+Guia Master Card do Brasil;DBimage/livro16.jpg;3.2
